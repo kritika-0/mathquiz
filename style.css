@@ -1,0 +1,23 @@
+.login_div1 , .login_div2
+	{
+		background: powderblue;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+        border-top: 5px solid #AA4465;
+        border-bottom: 5px solid #AA4465;
+        border-left: 5px solid #AA4465;
+        border-right: 5px solid #AA4465;
+        height: 300px;
+        width: 550px;
+	}
+    
+body
+    {
+        background:lavender ;
+    }
+
+    #login{
+        height: 40px;
+        width: 60px;    
+    }
